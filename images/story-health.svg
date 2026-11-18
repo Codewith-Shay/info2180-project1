@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" role="img" aria-label="Medical cross for COVID-19 screening and testing">
+  <rect width="300" height="300" fill="#C6F6D5"/>
+  <circle cx="60" cy="70" r="26" fill="#9AE6B4"/>
+  <circle cx="250" cy="240" r="34" fill="#9AE6B4"/>
+  <rect x="104" y="104" width="92" height="124" rx="14" fill="white"/>
+  <rect x="124" y="82" width="52" height="30" rx="8" fill="#4A5568"/>
+  <rect x="136" y="70" width="28" height="18" rx="6" fill="#5A67D8"/>
+  <path d="M150 140 v52 M124 166 h52" stroke="#48BB78" stroke-width="14" stroke-linecap="round"/>
+  <circle cx="226" cy="96" r="12" fill="#F56565"/>
+  <circle cx="74" cy="214" r="9" fill="#F56565"/>
+</svg>

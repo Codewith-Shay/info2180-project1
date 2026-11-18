@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Person meditating on a yoga mat">
+  <ellipse cx="200" cy="264" rx="150" ry="12" fill="#CBD5E0"/>
+  <rect x="60" y="238" width="280" height="22" rx="6" fill="#4299E1"/>
+  <path d="M120 240 Q200 178 280 240 Z" fill="#2D3748"/>
+  <path d="M165 218 Q200 118 235 218 Z" fill="#ED64A6"/>
+  <path d="M172 188 Q132 204 126 234" stroke="#F6AD55" stroke-width="12" fill="none" stroke-linecap="round"/>
+  <path d="M228 188 Q268 204 274 234" stroke="#F6AD55" stroke-width="12" fill="none" stroke-linecap="round"/>
+  <circle cx="200" cy="108" r="26" fill="#F6AD55"/>
+  <path d="M174 104 Q200 64 226 104 Q214 88 200 88 Q186 88 174 104 Z" fill="#2D3748"/>
+  <path d="M60 150 Q90 118 102 160 Q72 176 60 150 Z" fill="#48BB78"/>
+  <path d="M330 118 Q360 88 372 130 Q342 146 330 118 Z" fill="#48BB78"/>
+  <circle cx="88" cy="68" r="5" fill="#5A67D8"/>
+  <circle cx="320" cy="62" r="4" fill="#5A67D8"/>
+  <circle cx="300" cy="190" r="3" fill="#5A67D8"/>
+</svg>

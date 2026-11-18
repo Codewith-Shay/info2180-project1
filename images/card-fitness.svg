@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260" role="img" aria-label="Phone showing a fitness tracking app">
+  <rect x="140" y="12" width="120" height="236" rx="18" fill="#2D3748"/>
+  <rect x="150" y="34" width="100" height="192" rx="6" fill="#E2E8F0"/>
+  <circle cx="200" cy="22" r="3" fill="#718096"/>
+  <circle cx="200" cy="92" r="30" fill="white"/>
+  <path d="M200 106 C178 92 184 74 196 78 C198 79 199 80 200 82 C201 80 202 79 204 78 C216 74 222 92 200 106 Z" fill="#F56565"/>
+  <polyline points="158,160 178,160 188,142 200,176 212,150 222,160 242,160" fill="none" stroke="#48BB78" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="160" y="190" width="80" height="10" rx="5" fill="#CBD5E0"/>
+  <rect x="160" y="190" width="52" height="10" rx="5" fill="#5A67D8"/>
+  <rect x="160" y="208" width="50" height="8" rx="4" fill="#CBD5E0"/>
+  <circle cx="92" cy="86" r="14" fill="#4299E1"/>
+  <circle cx="318" cy="170" r="18" fill="#48BB78"/>
+  <path d="M60 200 Q80 170 96 200" stroke="#ED64A6" stroke-width="6" fill="none" stroke-linecap="round"/>
+</svg>

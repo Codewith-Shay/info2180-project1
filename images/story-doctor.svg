@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" role="img" aria-label="Doctor wearing a white coat and stethoscope">
+  <rect width="300" height="300" fill="#BEE3F8"/>
+  <path d="M30 300 Q40 206 110 196 L190 196 Q260 206 270 300 Z" fill="white"/>
+  <path d="M130 196 L150 238 L170 196 Z" fill="#5A67D8"/>
+  <rect x="130" y="166" width="40" height="36" rx="10" fill="#8D5524"/>
+  <ellipse cx="150" cy="128" rx="48" ry="56" fill="#8D5524"/>
+  <path d="M100 118 Q104 64 150 64 Q196 64 200 118 Q182 90 150 90 Q118 90 100 118 Z" fill="#1A202C"/>
+  <circle cx="132" cy="130" r="5" fill="#1A202C"/>
+  <circle cx="168" cy="130" r="5" fill="#1A202C"/>
+  <path d="M136 156 Q150 168 164 156" stroke="#1A202C" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <path d="M104 210 Q96 262 140 266 Q170 266 170 244" stroke="#4A5568" stroke-width="6" fill="none" stroke-linecap="round"/>
+  <circle cx="170" cy="244" r="9" fill="#CBD5E0" stroke="#4A5568" stroke-width="4"/>
+</svg>
