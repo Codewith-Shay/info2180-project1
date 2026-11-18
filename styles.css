@@ -288,7 +288,22 @@ footer {
 footer p {
     margin: 0;
 }
+.card {
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
 
+.card:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15);
+}
+
+.stories img {
+    transition: transform 0.2s ease;
+}
+
+.stories article:hover img {
+    transform: scale(1.05);
+}
 /* ---------- Small screens ---------- */
 @media (max-width: 768px) {
     header .container,
